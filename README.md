@@ -13,3 +13,6 @@ XGBoost, and gradient boosting were trained and evaluated in conjunction with th
 achieved the best performance with an AUC of 0.923, F1 of 0.838, and unsafe class recall of 0.94, maintaining a 
 discriminative ability of 93.8% compared to all laboratory analyses. SHAP analysis confirmed that iron concentration, 
 pH, and well depth are key predictor variables.
+
+
+https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12901026
